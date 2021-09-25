@@ -1,7 +1,7 @@
 ---
 name: Inclusion request
 about: Ask for your list to be included in our infrastructure for testing
-
+assignees: funilrys
 ---
 
 **Is your list in a Git repository? List them here**
