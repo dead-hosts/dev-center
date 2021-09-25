@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask something to the organisation owner
-
+assignees: funilrys
 ---
 
 **Have any questions ? Great let us know them here!**
